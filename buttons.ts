@@ -9,7 +9,7 @@ namespace buttons {
     //% block="Disable button A"
     //% weight=29
     //% shim=buttons::disableA
-    export function disableA(): void;
+    export function disableA(): void { basic.pause(100) }
 
     /**
     * Disable the micro:bit button B (P11 can be used as GPIO).
@@ -27,7 +27,7 @@ namespace buttons {
     //% block="Disable buttons A+B"
     //% weight=27
     //% shim=buttons::disable
-    export function disable(): void { basic.pause(100) }
+    export function disable(): void;
 
     /**
     * Enable the micro:bit button A (P5 can be used as GPIO).
