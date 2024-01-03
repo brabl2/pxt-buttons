@@ -1,6 +1,6 @@
 # buttons
 
-MakeCode extension to disable and enable the micro:bit buttons A+B (P5 and P11 can be used as GPIOs). 
+MakeCode extension to disable and enable the micro:bit(V2) buttons A+B (P5 and P11 can be used as GPIOs). 
 
 ## Installation
 
