@@ -1,7 +1,7 @@
 {
     "name": "buttons",
-    "version": "0.0.6",
-    "description": "Disable and enable micro:bit buttons A+B",
+    "version": "0.0.7",
+    "description": "Disable and enable micro:bit(V2) buttons A+B.",
     "license": "MIT",
     "dependencies": {
         "core": "*"

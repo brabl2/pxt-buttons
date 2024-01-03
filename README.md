@@ -4,7 +4,7 @@ MakeCode extension to disable and enable the micro:bit buttons A+B (P5 and P11 c
 
 ## Installation
 
-Open MakeCode and select '+ Extensions' in the menu. You need to enter our project URL https://github.com/brabl2/pxt-buttons in the search field, hit return and then select the buttons extension.
+Open MakeCode and select '+ Extensions' in the menu. You need to enter this project URL https://github.com/brabl2/pxt-buttons in the search field, hit return and then select the **buttons** extension.
 
 ## License
 

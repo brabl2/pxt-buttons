@@ -3,7 +3,7 @@
 namespace buttons {
 
     /**
-    * Disable the micro:bit button A (P5 can be used as GPIO).
+    * Disable the micro:bit(V2) button A (P5 can be used as GPIO).
     */
     //% blockId=buttons_dis_A
     //% block="Disable button A"
@@ -12,7 +12,7 @@ namespace buttons {
     export function disableA(): void { basic.pause(100) }
 
     /**
-    * Disable the micro:bit button B (P11 can be used as GPIO).
+    * Disable the micro:bit(V2) button B (P11 can be used as GPIO).
     */
     //% blockId=buttons_dis_B
     //% block="Disable button B"
@@ -21,7 +21,7 @@ namespace buttons {
     export function disableB(): void { basic.pause(100) }
 
     /**
-    * Disable the micro:bit buttons A+B (P5 and P11 can be used as GPIOs).
+    * Disable the micro:bit(V2) buttons A+B (P5 and P11 can be used as GPIOs).
     */
     //% blockId=buttons_dis_AB
     //% block="Disable buttons A+B"
@@ -30,7 +30,7 @@ namespace buttons {
     export function disable(): void { basic.pause(100) }
 
     /**
-    * Enable the micro:bit button A (P5 can be used as GPIO).
+    * Enable the micro:bit(V2) button A (P5 can be used as GPIO).
     */
     //% blockId=buttons_ena_A
     //% block="Enable button A"
@@ -39,7 +39,7 @@ namespace buttons {
     export function enableA(): void { basic.pause(100) }
 
     /**
-    * Enable the micro:bit button B (P11 can be used as GPIO).
+    * Enable the micro:bit(V2) button B (P11 can be used as GPIO).
     */
     //% blockId=buttons_ena_B
     //% block="Enable button B"
@@ -48,7 +48,7 @@ namespace buttons {
     export function enableB(): void { basic.pause(100) }
 
     /**
-    * Enable the micro:bit buttons A+B (P5 and P11 can be used as GPIOs).
+    * Enable the micro:bit(V2) buttons A+B (P5 and P11 can be used as GPIOs).
     */
     //% blockId=buttons_ena_AB
     //% block="Enable buttons A+B"
