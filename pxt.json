@@ -1,7 +1,7 @@
 {
     "name": "buttons",
     "version": "0.0.7",
-    "description": "Disable and enable micro:bit(V2) buttons A+B.",
+    "description": "Disable and enable micro:bit(V2) buttons A and B (P5 and P11 can be used as GPIOs).",
     "license": "MIT",
     "dependencies": {
         "core": "*"
